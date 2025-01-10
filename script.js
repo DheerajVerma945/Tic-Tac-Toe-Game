@@ -3,6 +3,8 @@ let reset = document.querySelector("#reset");
 let msg = document.querySelector("#msg");
 let newGame = document.querySelector("#new")
 
+//Forking here
+
 const winnningPatterns = [
     [0, 1, 2],
     [0, 4, 8],
